@@ -1,0 +1,17 @@
+Name,PG,SG,SF,PF,C,ACTIVE,MIN,OF,DF,OI,DI
+Jason Kidd,1,0,0,0,0,1,38,2,0,0,2,2
+Earl Boykins,3,0,0,0,0,1,10,2,0,-1,0,2
+Michael Redd,0,1,0,0,0,1,38,1,0,2,0,1
+Monty Williams,0,0,0,0,0,0,0,0,0,1,1,-1
+Dennis Scott,0,0,1,0,0,1,28,1,0,1,-1,-1
+Etan Thomas,0,0,0,1,0,1,38,3,0,1,1,0
+Popeye Jones,0,0,3,3,3,1,30,0,0,0,2,1
+Nazr Mohammed,0,0,0,0,1,1,38,3,0,1,1,-1
+David Thirdkill,5,5,0,0,0,1,0,0,0,0,-1,-1
+Clarence Weatherspoon,0,0,5,0,0,1,0,3,0,-2,2,1
+Vitaly Potapenko,0,0,0,5,5,1,8,3,0,-2,2,0
+Ira Newble,0,3,0,0,0,1,10,3,0,0,2,1
+Alton Ford,0,0,0,0,0,1,0,0,0,0,0,0
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+

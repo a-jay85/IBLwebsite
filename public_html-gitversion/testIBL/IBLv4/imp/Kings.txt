@@ -1,0 +1,17 @@
+Name,PG,SG,SF,PF,C,ACTIVE,MIN,OF,DF,OI,DI
+Darrell Armstrong,1,0,0,0,0,1,40,0,0,0,-2,-2
+Reggie Miller,0,1,5,0,0,1,40,0,0,0,-2,-2
+Lucious Harris,4,4,4,0,0,1,30,0,0,0,-2,-2
+Walter McCarty,0,0,0,0,0,1,1,0,0,0,-2,-2
+Shandon Anderson,5,5,0,0,0,0,1,0,0,0,-2,-2
+Chris Webber,0,0,0,5,1,1,40,2,0,0,-2,-2
+Kenyon Martin,0,0,0,0,0,1,1,0,0,0,-2,-2
+Raef Lafrentz,0,0,0,1,5,1,40,0,0,0,-2,-2
+Mamadou N'diaye,0,0,0,4,4,1,30,0,0,0,-2,-2
+Dale Davis,0,0,1,0,0,1,40,0,0,0,-2,-2
+Mikki Moore,0,0,0,0,0,1,1,0,0,0,-2,-2
+Don Reid,0,0,0,0,0,1,1,0,0,0,-2,-2
+Jim Jackson,0,0,0,0,0,1,1,0,0,0,-2,-2
+Michael Curry,0,0,0,0,0,0,1,0,0,0,-2,-2
+,,,,,,,,,,,,
+

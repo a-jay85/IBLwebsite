@@ -1,0 +1,40 @@
+DAY 1
+
+SQL Query Box
+
+UPDATE `nuke_iblplyr` SET `cy` = '0', `cy1` = '1063', `cy2` = '1169', `cy3` = '1275', `cy4` = '1381', `cy5` = '1487', `cy6` = '1593', `teamname` = 'Hornets', `cyt` = '6', `tid` = '25' WHERE `name` = 'Al Horford' LIMIT 1; UPDATE `nuke_iblplyr` SET `cy` = '0', `cy1` = '1320', `cy2` = '0', `cy3` = '0', `cy4` = '0', `cy5` = '0', `cy6` = '0', `teamname` = 'Magic', `cyt` = '1', `tid` = '26' WHERE `name` = 'Brandon Roy' LIMIT 1; UPDATE `nuke_iblplyr` SET `cy` = '0', `cy1` = '1451', `cy2` = '0', `cy3` = '0', `cy4` = '0', `cy5` = '0', `cy6` = '0', `teamname` = 'Rockets', `cyt` = '1', `tid` = '14' WHERE `name` = 'Carlos Boozer' LIMIT 1; UPDATE `nuke_iblplyr` SET `cy` = '0', `cy1` = '1063', `cy2` = '1169', `cy3` = '1276', `cy4` = '1382', `cy5` = '1488', `cy6` = '1595', `teamname` = 'Pacers', `cyt` = '6', `tid` = '9' WHERE `name` = 'Deron Williams' LIMIT 1; UPDATE `nuke_iblplyr` SET `cy` = '0', `cy1` = '750', `cy2` = '0', `cy3` = '0', `cy4` = '0', `cy5` = '0', `cy6` = '0', `teamname` = 'Rockets', `cyt` = '1', `tid` = '14' WHERE `name` = 'George T. Johnson' LIMIT 1; UPDATE `nuke_iblplyr` SET `cy` = '0', `cy1` = '1063', `cy2` = '1169', `cy3` = '1276', `cy4` = '1382', `cy5` = '1488', `cy6` = '1595', `teamname` = 'Cavaliers', `cyt` = '6', `tid` = '7' WHERE `name` = 'Kevin McHale' LIMIT 1; UPDATE `nuke_iblplyr` SET `cy` = '0', `cy1` = '1063', `cy2` = '1177', `cy3` = '1294', `cy4` = '1400', `cy5` = '1501', `cy6` = '1602', `teamname` = 'Nets', `cyt` = '6', `tid` = '4' WHERE `name` = 'Ramon Fernandez' LIMIT 1; UPDATE `nuke_iblplyr` SET `cy` = '0', `cy1` = '1063', `cy2` = '1169', `cy3` = '1275', `cy4` = '1381', `cy5` = '1487', `cy6` = '1593', `teamname` = 'Heat', `cyt` = '6', `tid` = '24' WHERE `name` = 'Tristan Thompson' LIMIT 1; 
+
+
+
+
+ACCEPTED OFFERS IN HTML FORMAT (FOR NEWS ARTICLE)
+
+Al Horford accepts the Hornets offer of a 6-year deal worth a total of 79.68 million dollars.<br> Brandon Roy accepts the Magic offer of a 1-year deal worth a total of 13.2 million dollars.<br> Carlos Boozer accepts the Rockets offer of a 1-year deal worth a total of 14.51 million dollars.<br> Deron Williams accepts the Pacers offer of a 6-year deal worth a total of 79.73 million dollars.<br> George T. Johnson accepts the Rockets offer of a 1-year deal worth a total of 7.5 million dollars.<br> Kevin McHale accepts the Cavaliers offer of a 6-year deal worth a total of 79.73 million dollars.<br> Ramon Fernandez accepts the Nets offer of a 6-year deal worth a total of 80.37 million dollars.<br> Tristan Thompson accepts the Heat offer of a 6-year deal worth a total of 79.68 million dollars.<br> 
+
+
+
+ALL OFFERS IN HTML FORMAT (FOR NEWS ARTICLE EXTENDED TEXT)
+
+The Hornets offered Al Horford a 6-year deal worth a total of 79.68 million dollars.<br> The Magic offered Brandon Roy a 1-year deal worth a total of 13.2 million dollars.<br> The Knicks offered Carl Landry a 2-year deal worth a total of 10.5 million dollars.<br> The Suns offered Carl Landry a 1-year deal worth a total of 6.36 million dollars.<br> The Rockets offered Carlos Boozer a 1-year deal worth a total of 14.51 million dollars.<br> The 76ers offered Charles Barkley a 1-year deal worth a total of 1.45 million dollars.<br> The Kings offered Clifford Robinson a 1-year deal worth a total of 9.3 million dollars.<br> The Pacers offered Deron Williams a 6-year deal worth a total of 79.73 million dollars.<br> The Heat offered Deron Williams a 6-year deal worth a total of 79.68 million dollars.<br> The Rockets offered George T. Johnson a 1-year deal worth a total of 7.5 million dollars.<br> The Magic offered George T. Johnson a 1-year deal worth a total of 6 million dollars.<br> The 76ers offered Jason Richardson a 1-year deal worth a total of 10.63 million dollars.<br> The Spurs offered Jason Richardson a 6-year deal worth a total of 33.75 million dollars.<br> The Cavaliers offered Kevin McHale a 6-year deal worth a total of 79.73 million dollars.<br> The Mavericks offered Kevin McHale a 6-year deal worth a total of 79.68 million dollars.<br> The Magic offered Kevin McHale a 6-year deal worth a total of 79.68 million dollars.<br> The 76ers offered Matt Steigenga a 1-year deal worth a total of 0.64 million dollars.<br> The Suns offered Micheal Ray Richardson a 1-year deal worth a total of 10.63 million dollars.<br> The Bulls offered Monta Ellis a 1-year deal worth a total of 10.63 million dollars.<br> The Lakers offered Moses Malone a 2-year deal worth a total of 13.63 million dollars.<br> The Nets offered Ramon Fernandez a 6-year deal worth a total of 80.37 million dollars.<br> The Jazz offered Ramon Fernandez a 6-year deal worth a total of 79.68 million dollars.<br> The Lakers offered Ron Watts a 4-year deal worth a total of 20.2 million dollars.<br> The Heat offered Tristan Thompson a 6-year deal worth a total of 79.68 million dollars.<br> The Jazz offered Tristan Thompson a 6-year deal worth a total of 79.68 million dollars.<br> 
+
+
+DAY 2
+
+SQL Query Box
+
+UPDATE `nuke_iblplyr` SET `cy` = '0', `cy1` = '500', `cy2` = '550', `cy3` = '0', `cy4` = '0', `cy5` = '0', `cy6` = '0', `teamname` = 'Knicks', `cyt` = '2', `tid` = '3' WHERE `name` = 'Carl Landry' LIMIT 1; UPDATE `nuke_iblplyr` SET `cy` = '0', `cy1` = '930', `cy2` = '0', `cy3` = '0', `cy4` = '0', `cy5` = '0', `cy6` = '0', `teamname` = 'Kings', `cyt` = '1', `tid` = '17' WHERE `name` = 'Clifford Robinson' LIMIT 1; 
+
+
+
+ACCEPTED OFFERS IN HTML FORMAT (FOR NEWS ARTICLE)
+
+Carl Landry accepts the Knicks offer of a 2-year deal worth a total of 10.5 million dollars.<br> Clifford Robinson accepts the Kings offer of a 1-year deal worth a total of 9.3 million dollars.<br> 
+
+
+
+
+
+
+ALL OFFERS IN HTML FORMAT (FOR NEWS ARTICLE EXTENDED TEXT)
+
+The Knicks offered Carl Landry a 2-year deal worth a total of 10.5 million dollars.<br> The Suns offered Carl Landry a 1-year deal worth a total of 6.36 million dollars.<br> The 76ers offered Charles Barkley a 1-year deal worth a total of 1.45 million dollars.<br> The Kings offered Clifford Robinson a 1-year deal worth a total of 9.3 million dollars.<br> The 76ers offered Jason Richardson a 1-year deal worth a total of 10.63 million dollars.<br> The Spurs offered Jason Richardson a 6-year deal worth a total of 33.75 million dollars.<br> The 76ers offered Matt Steigenga a 1-year deal worth a total of 0.64 million dollars.<br> The Suns offered Micheal Ray Richardson a 1-year deal worth a total of 10.63 million dollars.<br> The Bulls offered Monta Ellis a 1-year deal worth a total of 10.63 million dollars.<br> The Lakers offered Moses Malone a 2-year deal worth a total of 13.63 million dollars.<br> The Lakers offered Ron Watts a 4-year deal worth a total of 20.2 million dollars.<br> 

@@ -1,0 +1,23 @@
+
+Carlos Arroyo,35,0,0,0,0,0,0,-1,-1
+Jonathan Bender,300,0,0,0,0,0,0,-1,-1
+Larry Hughes,961,1057,1143,1239,0,0,0,-1,-1
+Matt Harpring,450,0,0,0,0,0,0,-1,-1
+Mikki Moore,481,0,0,0,0,0,0,-1,-1
+Othella Harrington,80,0,0,0,0,0,0,-1,-1
+Toni Kukoc,600,0,0,0,0,0,0,-1,-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

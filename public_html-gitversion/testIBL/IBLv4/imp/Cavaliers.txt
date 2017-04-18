@@ -1,0 +1,17 @@
+Name,PG,SG,SF,PF,C,ACTIVE,MIN,OF,DF,OI,DI
+Larry Hughes,1,0,0,0,0,1,40,2,0,2,2,2
+Carlos Arroyo,0,0,0,0,0,1,0,0,0,0,0,0
+Kerry Kittles,5,1,0,0,0,1,36,1,1,2,0,-2
+Shawn Marion,0,0,1,5,0,1,40,0,0,2,2,-2
+Toni Kukoc,0,4,4,0,0,1,14,2,1,0,0,-2
+Malik Rose,0,0,0,1,5,1,36,3,0,0,2,0
+Othella Harrington,0,0,0,0,0,1,0,0,0,0,0,0
+Zeljko Rebraca,0,0,0,0,1,1,30,3,3,0,0,0
+Mikki Moore,0,0,0,5,4,1,15,3,3,0,2,0
+Jonathan Bender,0,5,0,0,0,1,0,1,1,0,0,0
+Matt Harpring,0,0,4,4,0,1,15,0,0,0,0,0
+Eric Snow,4,0,0,0,0,1,18,2,2,0,2,2
+Martell Webster,0,0,0,0,0,0,0,0,0,0,0,0
+Richard Anderson,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,
+

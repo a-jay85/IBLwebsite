@@ -1,0 +1,17 @@
+Name,PG,SG,SF,PF,C,ACTIVE,MIN,OF,DF,OI,DI
+Chris Whitney,2,0,0,0,0,1,10,1,0,0,0,0
+Erick Strickland,5,0,0,0,0,1,0,0,0,0,0,-1
+Wally Szczerbiak,0,1,0,0,0,1,36,1,1,1,2,0
+Joe Johnson,5,4,5,0,0,1,2,1,0,0,0,2
+Lamar Odom,0,0,4,3,0,1,12,2,0,0,0,-1
+Tyrone Nesby,0,0,5,0,0,1,0,0,0,0,0,0
+Ben Wallace,0,0,0,0,1,1,40,3,3,2,1,0
+Shareef Abdur-Rahim,0,0,0,1,0,1,38,0,3,1,1,-2
+Chris Andersen,0,0,0,0,2,1,10,3,0,0,1,-2
+Loren Woods,0,0,0,4,5,1,2,0,0,0,1,0
+Al Harrington,0,0,1,0,0,1,34,3,3,1,0,-2
+Mike Bibby,1,0,0,0,0,1,38,0,0,0,1,1
+Matt Harpring,0,3,3,0,0,1,18,0,0,0,0,0
+Hubert Davis,0,0,0,0,0,1,0,1,0,1,0,0
+,,,,,,,,,,,,
+

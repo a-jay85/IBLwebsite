@@ -1,0 +1,17 @@
+Name,PG,SG,SF,PF,C,ACTIVE,MIN,OF,DF,OI,DI
+Jamaal Tinsley,2,2,0,0,0,1,0,3,0,0,0,0
+Shammond Williams,3,3,0,0,0,1,0,0,0,-2,2,2
+Anthony Peeler,0,5,0,0,0,0,0,0,0,0,0,0
+Lancaster Gordon,0,5,5,0,0,1,0,0,0,0,0,0
+Glenn Robinson,0,0,1,5,0,1,0,0,0,2,0,0
+Cedric Henderson,0,1,0,0,0,1,0,0,0,0,0,0
+Joe Smith,0,0,0,1,0,1,0,0,0,1,0,0
+Dan Langhi,0,0,3,2,2,1,0,0,0,0,0,0
+Sam Lacey,0,0,0,0,1,1,0,0,0,0,0,0
+Travis Knight,0,0,0,3,3,1,0,0,0,0,0,0
+Tony Delk,1,5,0,0,0,1,0,0,0,0,0,0
+Anthony Johnson,5,0,0,0,0,1,0,0,0,0,0,0
+John Wallace,0,0,2,0,0,1,0,0,0,0,0,0
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+

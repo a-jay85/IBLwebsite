@@ -1,0 +1,17 @@
+Name,PG,SG,SF,PF,C,ACTIVE,MIN,OF,DF,OI,DI
+Gilbert Arenas,1,0,0,0,0,1,40,2,0,1,1,1
+Speedy Claxton,5,0,0,0,0,1,10,0,0,-2,2,2
+Rodney Buford,0,5,5,0,0,1,1,0,0,0,2,-2
+Steve Smith,0,1,0,0,0,1,40,1,0,1,2,-2
+Corey Maggette,0,0,1,0,0,1,40,0,0,2,1,-2
+Bobby Simmons,0,4,4,0,0,1,20,0,0,1,1,-2
+Chris Gatling,0,0,0,4,4,1,20,0,3,1,2,-2
+Darrell Allums,0,0,0,0,0,0,1,0,0,-2,2,-2
+Joel Przybilla,0,0,0,1,0,1,40,0,3,1,2,-2
+Dikembe Mutombo,0,0,0,0,1,1,40,0,3,1,2,-2
+Tierre Brown,4,0,0,0,0,1,10,0,0,-2,2,2
+Damon Jones,0,0,0,0,0,1,1,0,0,1,2,-2
+Tariq Abdul-Wahad,0,0,0,0,0,0,1,0,0,-2,2,-2
+Victor Alexander,0,0,0,5,5,1,1,0,3,-2,2,-2
+Irv Kiffin,0,0,0,0,0,0,1,0,0,-2,2,-2
+

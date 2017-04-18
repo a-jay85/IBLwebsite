@@ -1,0 +1,17 @@
+Name,PG,SG,SF,PF,C,ACTIVE,MIN,OF,DF,OI,DI
+Jermaine Jackson,5,5,0,0,0,1,1,0,0,-2,2,2
+Bob Sura,3,1,0,0,0,1,36,3,0,1,0,2
+Ruben Patterson,0,4,1,0,0,1,36,3,0,1,0,0
+Scottie Pippen,1,0,4,0,0,1,36,2,0,-2,0,2
+Bo Outlaw,0,0,3,5,5,1,1,1,0,0,-2,0
+Harold Jamison,0,0,5,5,5,0,1,0,0,0,2,0
+Rasho Nesterovic,0,0,0,5,1,1,36,0,0,0,0,-2
+Greg Kite,0,0,0,0,0,0,12,0,0,-2,0,0
+Antawn Jamison,0,4,3,3,0,1,36,3,0,2,0,0
+Tyrone Nesby,0,0,5,0,0,1,1,0,0,0,0,0
+Edgar Jones,0,0,0,1,5,1,36,3,0,1,2,-2
+Reggie Slater,0,0,5,3,3,1,12,3,0,0,2,0
+Latrell Sprewell,0,3,5,0,0,1,12,1,0,0,0,0
+Corie Blount,0,0,0,5,5,1,1,0,0,0,-2,-2
+,,,,,,,,,,,,
+
