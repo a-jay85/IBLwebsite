@@ -88,7 +88,7 @@ function display($nullset) {
 
 	$userteam = stripslashes(check_html($userinfo['user_ibl_team'], "nohtml"));
 
-	// TODO: MAKE THIS DYNAMIC OMG
+	// TODO: MAKE THIS DYNAMIC OMG -A-Jay
 	$freeagentyear=2015;
 
 	/*
@@ -1447,7 +1447,7 @@ function rookieoption($pid) {
 			<input type=\"hidden\" name=\"playername\" value=\"$player_name\">
 			<input type=\"hidden\" name=\"rookie_cy4\" value=\"$rookie_cy4\">
 			<input type=\"submit\" value=\"Activate Rookie Extension\"></form>";
-		} 
+		}
 	} else {
 		// --- 2nd Round Rookie Options (AJN) ---
 		if ($player_exp == 1) {
